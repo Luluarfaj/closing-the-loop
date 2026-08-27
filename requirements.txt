@@ -1,0 +1,9 @@
+# Pinned environment for "Closing the Loop" (Alarfaj, Rawat, Branch-Elliman, Ertem).
+# Python 3.11.9
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.17.1
+matplotlib==3.10.9
+statsmodels==0.14.6
+pytrends==4.9.2
+requests==2.34.2

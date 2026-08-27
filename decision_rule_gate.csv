@@ -1,0 +1,9 @@
+disease,window,n,rho_concern_burden,p_rho,partial_rho_given_vote,p_partial,icc_between_corrected,most_variance_between_places,tracks_benchmark_in_window,gate_mode,gate,gate_conjunction_reading,gate_tracking_only_reading,alpha
+covid,October 1 - October 25,51,0.1958,0.1684134441217508,0.1546,0.28357384738992764,0.9666,True,False,tracking_only,FAIL,FAIL,FAIL,0.05
+covid,October 26 - November 29,51,-0.1854,0.19265242684518508,-0.073,0.6142118867730731,0.9666,True,False,tracking_only,FAIL,FAIL,FAIL,0.05
+covid,November 30 - December 27,51,-0.2741,0.05163711731760182,-0.2096,0.14401234510515448,0.9666,True,False,tracking_only,FAIL,FAIL,FAIL,0.05
+covid,December 28 - January 31,51,-0.2181,0.12410019448047378,-0.1164,0.42067260350019947,0.9666,True,False,tracking_only,FAIL,FAIL,FAIL,0.05
+flu,October 1 - October 25,51,0.1426,0.3180493538417485,0.1575,0.2746897593095354,0.6949,True,False,tracking_only,FAIL,FAIL,FAIL,0.05
+flu,October 26 - November 29,51,0.2128,0.13384127183004937,0.1447,0.3161928872337679,0.6949,True,False,tracking_only,FAIL,FAIL,FAIL,0.05
+flu,November 30 - December 27,51,0.504,0.0001627052364047493,0.4383,0.0014558400803970474,0.6949,True,True,tracking_only,PASS,PASS,PASS,0.05
+flu,December 28 - January 31,51,-0.2684,0.056883924266966965,-0.1392,0.3349081185595366,0.6949,True,False,tracking_only,FAIL,FAIL,FAIL,0.05

@@ -1,0 +1,9 @@
+window,label,summary,rho,p,n,primary
+202601-202605,MATCHED (Dec 28 - Jan 31),mean,-0.2678,0.05747,51,True
+202601-202605,MATCHED (Dec 28 - Jan 31),max,0.1429,0.31704,51,False
+202548-202609,Dec 1 - Feb 28,mean,0.1166,0.41506,51,False
+202548-202609,Dec 1 - Feb 28,max,0.4025,0.00341,51,False
+202552-202605,Dec 21 - Jan 31,mean,0.0655,0.64775,51,False
+202552-202605,Dec 21 - Jan 31,max,0.4025,0.00341,51,False
+202601-202609,Jan 1 - Feb 28 (lagged),mean,-0.3659,0.00829,51,False
+202601-202609,Jan 1 - Feb 28 (lagged),max,0.1398,0.328,51,False

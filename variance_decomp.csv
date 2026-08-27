@@ -1,0 +1,2 @@
+n_states,n_windows,n_obs,var_between,var_within_raw,sampling_var,var_within_corrected,icc_naive,icc_corrected
+51,4,204,9.038,10.18,6.212,3.968,0.4703,0.6949
