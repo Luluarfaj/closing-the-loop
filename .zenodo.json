@@ -1,0 +1,17 @@
+{
+  "title": "Closing the Loop: analysis code and derived data",
+  "description": "Analysis code and derived data for \"Closing the Loop: A Feedback Framework Linking the Infodemic and the Epidemic for Risk-Communication Decisions\" by Lulu Alarfaj, Nimisha Rawat, Westyn Branch-Elliman and Melissa Zeynep Ertem.<br><br>This is the version behind the manuscript submitted to Nature Human Behaviour: 21 analysis scripts and 20 derived datasets, all state-level aggregates computed from public sources. No data were collected from human participants.<br><br>Contents are described in README.md. The environment is pinned in requirements.txt (Python 3.11.9). Released under the MIT licence.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    { "name": "Alarfaj, Lulu", "affiliation": "School of Systems Science and Industrial Engineering, Binghamton University, Binghamton, NY, USA" },
+    { "name": "Rawat, Nimisha", "affiliation": "School of Systems Science and Industrial Engineering, Binghamton University, Binghamton, NY, USA" },
+    { "name": "Branch-Elliman, Westyn", "affiliation": "University of California, Los Angeles, Los Angeles, CA, USA; VA Greater Los Angeles Healthcare System, Los Angeles, CA, USA" },
+    { "name": "Ertem, Melissa Zeynep", "affiliation": "School of Systems Science and Industrial Engineering, Binghamton University, Binghamton, NY, USA" }
+  ],
+  "keywords": [
+    "risk communication", "infodemic", "risk perception", "system dynamics",
+    "social amplification of risk", "decision support", "influenza", "COVID-19"
+  ]
+}
